@@ -75,11 +75,15 @@ Deploying models on NVIDIA Jetson Nano and Raspberry Pi using TensorFlow Lite an
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sagar4458&theme=tokyonight&border_radius=10&ring=1E6F5C&fire=1E6F5C&currStreakLabel=1E6F5C&border=1E6F5C" height="170"/>
+<a href="https://github.com/sagar4458">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sagar4458&theme=tokyonight&border_radius=10&ring=1E6F5C&fire=1E6F5C&currStreakLabel=1E6F5C&border=1E6F5C" height="170"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar4458&theme=tokyonight" width="100%"/>
+<a href="https://github.com/sagar4458">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar4458&theme=tokyonight" width="100%"/>
+</a>
 
 </div>
 
