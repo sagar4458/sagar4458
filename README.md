@@ -46,35 +46,20 @@ Deploying models on NVIDIA Jetson Nano and Raspberry Pi using TensorFlow Lite an
 </tr>
 </table>
 ---
-🛠️ Tech Stack
-Deep Learning & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![SAM](https://img.shields.io/badge/SAM-1E6F5C?style=flat-square&logoColor=white)
-![DeepSORT](https://img.shields.io/badge/DeepSORT-7B2D8B?style=flat-square&logoColor=white)
-LLMs & Generative AI
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1E6F5C?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-GPU & Deployment
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
----
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Area | Technologies |
+|------|-------------|
+| **Deep Learning & ML** | Python · PyTorch · TensorFlow · Keras · Scikit-learn · NumPy |
+| **Computer Vision** | OpenCV · YOLOv8 · SAM · MediaPipe · DeepSORT · Tesseract OCR |
+| **LLMs & GenAI** | Ollama · Llama 3 · LLaVA · OpenAI API · ChromaDB · LangChain |
+| **GPU & Optimisation** | CUDA · ONNX · TensorRT · TensorFlow Lite · Quantization |
+| **Edge & Deployment** | Jetson Nano · Raspberry Pi · Flask · Docker |
+| **Cloud & Tools** | AWS · GCP · Git · Ubuntu · bash · venv/conda |
+
+</div>
 🚀 Current Projects
 Project	Description	Stack
 🛣️ Intelligent RoadEye	Road surface defect detection from aerial imagery with real-time dashboard	VGG16 · TensorFlow · Flask · OpenCV
