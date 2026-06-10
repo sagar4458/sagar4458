@@ -1,134 +1,79 @@
-<div align="center">
-
 # Gullinkala Mouli Sagar
 
-### AI · Machine Learning · Computer Vision · LLMs & RAG · Edge AI
+AI/ML Engineer · Computer Vision · LLMs · Edge AI
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-mouli-sagar-389621205/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouli.sagar39160@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E6F5C?style=for-the-badge&logo=netlify&logoColor=white)](https://mouli-sagar.netlify.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=sagar4458&style=for-the-badge&color=1E6F5C&label=PROFILE+VIEWS)
-
-<br/>
-
-*An engineer with a strong passion for AI, machine learning and deep learning —*
-*actively building and deploying real-world systems over the past 1.5 years*
-*through internships, projects and national hackathons.*
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/g-mouli-sagar-389621205/) · [Portfolio](https://mouli-sagar.netlify.app/) · [Email](mailto:mouli.sagar39160@gmail.com)
 
 ---
 
-## 🧠 What I Work On
+## Currently
 
-<br/>
+Building production AI systems. Focused on computer vision deployment on edge devices, RAG pipelines for private document Q&A, and real-time inference optimization.
 
-**👁️ Computer Vision & Deep Learning**
-Training CNNs and fine-tuning pretrained models (VGG16, ResNet50, MobileNetV2, YOLOv8) on custom datasets — building end-to-end pipelines from data preparation through to inference and deployment.
-
-<br/>
-
-**🤖 LLMs & Generative AI**
-Building RAG pipelines with ChromaDB and Llama 3 via Ollama, working with OpenAI API for conversational AI, and exploring vision-language models like LLaVA.
-
-<br/>
-
-**⚡ Edge AI & Deployment**
-Deploying models on NVIDIA Jetson Nano and Raspberry Pi using TensorFlow Lite and ONNX — optimising for real-time inference on resource-constrained hardware.
+Recent work includes a road defect detection system (Smart India Hackathon 2024 winner) and an offline study companion using Llama 3 + ChromaDB.
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Projects
 
-<br/>
+Each project is fully documented, deployable, and was built to solve a real problem.
 
-| Area | Technologies |
-|:-----|:------------|
-| **Deep Learning & ML** | Python · PyTorch · TensorFlow · Keras · Scikit-learn · NumPy · SciPy · Hugging Face |
-| **Computer Vision** | OpenCV · YOLOv8 · SAM · MediaPipe · DeepSORT · Tesseract OCR · dlib · DeepFace |
-| **LLMs & Generative AI** | Ollama · Llama 3 · LLaVA · OpenAI API · Gemini API · ChromaDB · LangChain · CrewAI |
-| **GPU & Optimisation** | CUDA · ONNX · TensorRT · TensorFlow Lite · Model Quantization |
-| **Edge & Deployment** | NVIDIA Jetson Nano · Raspberry Pi · Flask · Docker · Coral Edge TPU |
-| **Cloud & Dev Tools** | AWS (S3, Lambda, SageMaker) · GCP · Git · Ubuntu · bash · venv/conda |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Intelligent RoadEye](https://github.com/sagar4458/intelligent-roadeye) | Aerial road defect detection with real-time dashboard | VGG16, PyTorch, Flask, OpenCV |
+| [RAG Study Companion](https://github.com/sagar4458/rag-study-companion) | Private offline Q&A grounded in your documents | Llama 3.2, ChromaDB, Ollama, Flask |
+| [Crop Disease Detector](https://github.com/sagar4458/crop-disease-detector) | Plant disease classification with 45-feature pipeline, 84.8% accuracy | Random Forest, scikit-learn, Flask, Pillow |
+| [SignBridge](https://github.com/sagar4458/sign-language-translator) | Real-time ASL recognition with sentence builder | ViT-Tiny, BiLSTM, MediaPipe, Flask |
+| [Solace](https://github.com/sagar4458/mental-health-companion) | Empathetic chatbot with crisis detection | Groq/Llama 3.1, Gemini, VADER, Flask |
 
----
-
-## 🚀 Current Projects
-
-<br/>
-
-| | Project | Description | Stack |
-|--|---------|-------------|-------|
-| 🛣️ | [**Intelligent RoadEye**](https://github.com/sagar4458/intelligent-roadeye) | Road surface defect detection from aerial imagery with real-time analysis dashboard | VGG16 · TensorFlow · Flask · OpenCV |
-| 🌿 | [**Crop Disease Detector**](https://github.com/sagar4458/crop-disease-detector) | Plant health classification using 45-feature hand-engineered pipeline — 84.8% CV accuracy | Random Forest · scikit-learn · Flask |
-| 🤖 | [**RAG Study Companion**](https://github.com/sagar4458/rag-study-companion) | Fully private offline Q&A system grounded strictly in uploaded documents | Llama 3 · ChromaDB · Ollama · Flask |
-| 🧠 | [**Mental Health Companion**](https://github.com/sagar4458/mental-health-companion) | Empathetic AI chatbot with crisis detection and mood tracking | GPT-4o-mini · OpenAI API · Flask |
-| 🤟 | [**Sign Language Translator**](https://github.com/sagar4458/sign-language-translator) | Real-time ASL recognition with live webcam and sentence builder | MobileNetV2 · MediaPipe · Flask |
+*All repositories include setup instructions, inference examples, and documented preprocessing steps.*
 
 ---
 
-## 📊 GitHub Stats
+## Technical Foundation
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/sagar4458">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sagar4458&theme=tokyonight&border_radius=10&ring=1E6F5C&fire=1E6F5C&currStreakLabel=1E6F5C&border=1E6F5C" height="170"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/sagar4458">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar4458&theme=tokyonight" width="100%"/>
-</a>
-
-</div>
+**Core:** Python, PyTorch, TensorFlow, OpenCV  
+**LLMs & RAG:** Ollama, Llama 3, ChromaDB, LangChain, OpenAI/Gemini APIs  
+**Edge:** NVIDIA Jetson, Raspberry Pi, TFLite, ONNX, Docker  
+**Cloud:** AWS (S3, Lambda, SageMaker), GCP
 
 ---
 
-## 🏆 Achievements & Certifications
+## Commitments I take seriously
 
-<br/>
-
-**Hackathons**
-
-- 🥇 **Joint Winner — Smart India Hackathon 2024** (National Edition) · Indigenous Logistics Drone for ITBP
-- 🥉 **2nd Runner-up — Amaravati Drone Summit 2024** · Road Defect Detection System · Recognition from CM of Andhra Pradesh
-
-<br/>
-
-**Certifications**
-
-- 📜 Advanced Computer Vision with TensorFlow — DeepLearning.AI / Coursera · 2026
-- 📜 Machine Learning for Computer Vision — MathWorks / Coursera · 2026
-- 📜 IBM Introduction to Machine Learning Specialization — IBM / Coursera · 2024
-- 📜 Exploratory Data Analysis for Machine Learning — IBM / Coursera · 2024
-- 📜 PCAP: Python Input, Output and String Handling — Logical Operations / Coursera · 2026
-- ✈️ DGCA Remote Pilot Certificate — Rotorcraft UAS Small Category · 2021
+- **Documentation** — Every project has a clear README with setup, usage, and examples
+- **Reproducibility** — Requirements files, environment configs, and data preprocessing steps included
+- **Real hardware** — Models optimized and tested on Jetson Nano and Raspberry Pi (not just notebooks)
+- **Clean code** — Type hints, docstrings, and modular structure
 
 ---
 
-## 🐍 Contribution Activity
+## Recognition
 
-<br/>
+- **Smart India Hackathon 2024** (National Edition) · Joint Winner  
+  Indigenous logistics drone system for ITBP
 
-<div align="center">
+- **Amaravati Drone Summit 2024** · 2nd Runner-up  
+  Road defect detection system · Recognized by CM of Andhra Pradesh
 
-![snake animation](https://raw.githubusercontent.com/sagar4458/sagar4458/output/github-contribution-grid-snake.svg)
-
-</div>
+- **DGCA Remote Pilot Certificate** · Rotorcraft UAS (2021)
 
 ---
 
-<div align="center">
+## Certifications (relevant)
 
-*Always building something. Open to collaborations and opportunities in AI/ML/DL, computer vision and generative AI.*
+- Advanced Computer Vision with TensorFlow — DeepLearning.AI (2026)
+- Machine Learning for Computer Vision — MathWorks (2026)
+- IBM Machine Learning Specialization — IBM (2024)
 
-<br/>
+---
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-mouli-sagar-389621205/)
+## Activity
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sagar4458&theme=github-light&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar4458&theme=github)
+
+---
+
+*Interested in ML engineering roles where I can build, deploy, and maintain production systems — especially in computer vision, edge AI, or applied LLMs.*
