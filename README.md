@@ -41,10 +41,10 @@ Each project is fully documented, deployable, and was built to solve a real prob
 
 ## Commitments I take seriously
 
-- **Documentation** — Every project has a clear README with setup, usage, and examples
-- **Reproducibility** — Requirements files, environment configs, and data preprocessing steps included
-- **Real hardware** — Models optimized and tested on Jetson Nano and Raspberry Pi (not just notebooks)
-- **Clean code** — Type hints, docstrings, and modular structure
+- **Documentation** - Every project has a clear README with setup, usage, and examples
+- **Reproducibility** - Requirements files, environment configs, and data preprocessing steps included
+- **Real hardware** - Models optimized and tested on Jetson Nano and Raspberry Pi (not just notebooks)
+- **Clean code** - Type hints, docstrings, and modular structure
 
 ---
 
@@ -62,9 +62,9 @@ Each project is fully documented, deployable, and was built to solve a real prob
 
 ## Certifications (relevant)
 
-- Advanced Computer Vision with TensorFlow — DeepLearning.AI (2026)
-- Machine Learning for Computer Vision — MathWorks (2026)
-- IBM Machine Learning Specialization — IBM (2024)
+- Advanced Computer Vision with TensorFlow - DeepLearning.AI (2026)
+- Machine Learning for Computer Vision - MathWorks (2026)
+- IBM Machine Learning Specialization - IBM (2024)
 
 ---
 
@@ -76,4 +76,4 @@ Each project is fully documented, deployable, and was built to solve a real prob
 
 ---
 
-*Interested in ML engineering roles where I can build, deploy, and maintain production systems — especially in computer vision, edge AI, or applied LLMs.*
+*Interested in ML engineering roles where I can build, deploy, and maintain production systems - especially in computer vision, edge AI, or applied LLMs.*
